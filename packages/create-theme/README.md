@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/create-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/create-slidev-theme)
 
-[Slidev](https://sli.dev) theme template generater.
+[Slidev](https://sli.dev) theme template generator.
 
 ## Usage
 
